@@ -203,7 +203,7 @@ class SubTr:
         self.cpj = srt_to_caption_list(srt_path)
         
     def dfpx(self,dfpx_path):
-        from dfpx_parser import parse_xml_to_srt2
+        from .dfpx_parser import parse_xml_to_srt2
         with open(dfpx_path,'r', encoding='utf-8') as f:
             xml_text = f.read()
         captions_141 = parse_xml_to_srt2(xml_text)
