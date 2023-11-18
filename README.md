@@ -1,5 +1,6 @@
 # Subtr
-Effortless Subtitle Translation is a user-friendly tool that seamlessly translates SRT and DFXP subtitles. 
+Effortless Subtitle Translation is a user-friendly tool that seamlessly translates SRT and DFXP subtitles.
+
 It's the ideal choice for handling subtitle sentence breaks across tracks, ensuring smooth and accurate translations.
 
 for exp. :
