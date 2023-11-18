@@ -1,5 +1,6 @@
 # Subtr
-An easy tool to tarnslate srt or dfpx subtitles.Best translator when subtitle sentence breacks into tracks.
+Effortless Subtitle Translation is a user-friendly tool that seamlessly translates SRT and DFXP subtitles. 
+It's the ideal choice for handling subtitle sentence breaks across tracks, ensuring smooth and accurate translations.
 
 for exp. :
 ```
