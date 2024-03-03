@@ -56,3 +56,8 @@ translator = SubTr()
 translator.dfpx('67_000_Dreams_.html')
 translator.translate(dest_lang="fa" , src_lang="en",save_path='67_000_Dreams_fa.srt')
 ```
+
+or simply use pip to install : 
+```shell
+pip install git+https://github.com/karim23657/Subtr
+```
